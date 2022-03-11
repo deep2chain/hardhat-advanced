@@ -1,0 +1,3 @@
+[submodule "pywallet"]
+	path = pywallet
+	url = git@github.com:deep2essence/pywallet
